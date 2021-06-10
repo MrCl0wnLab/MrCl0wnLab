@@ -2,6 +2,8 @@
 
 Cybersecurity researcher specialized in GED (Gambiarra, Exploit and Development )
 
+Member of [Osint Brazuca Project](https://github.com/osintbrazuca/OSINT-Brazuca "OSINT-Brazuca")
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Interface OpenVpnChange with PyQT
